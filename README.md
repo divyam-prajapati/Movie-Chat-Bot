@@ -43,7 +43,7 @@ python chatbot.py
 To exit the chatbot, simply type quit or exit.
 
 # PROJECT 2
-## Chatbot with encoder-decoder and attension mechanism
+## Chatbot with encoder-decoder and attention mechanism
 For details on the model and the approach please read this [report](https://github.com/divyam-prajapati/Movie-Chat-Bot/blob/main/DBP230000_PROJECT2_REPORT.pdf)
 
 The Code is availabe in the [notebook](https://github.com/divyam-prajapati/Movie-Chat-Bot/blob/main/DBP230000_NLP_MovieBot.ipynb).
